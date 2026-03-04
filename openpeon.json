@@ -18,22 +18,6 @@
           "label": "宝宝"
         }
       ]
-    },
-    "task.complete": {
-      "sounds": [
-        {
-          "file": "sounds/datong.mp3",
-          "label": "大同"
-        }
-      ]
-    },
-    "task.error": {
-      "sounds": [
-        {
-          "file": "sounds/gali.mp3",
-          "label": "gali"
-        }
-      ]
     }
   }
 }
