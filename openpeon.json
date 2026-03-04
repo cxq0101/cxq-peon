@@ -15,23 +15,23 @@
       "sounds": [
         {
           "file": "sounds/baby.mp3",
-          "label": "Hello! 宝宝"
+          "label": "宝宝"
         }
       ]
     },
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/baby.mp3",
-          "label": "宝宝 ok之"
+          "file": "sounds/datong.mp3",
+          "label": "大同"
         }
       ]
     },
     "task.error": {
       "sounds": [
         {
-          "file": "sounds/baby.mp3",
-          "label": "宝宝 出问题啦"
+          "file": "sounds/gali.mp3",
+          "label": "gali"
         }
       ]
     }
