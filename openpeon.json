@@ -12,12 +12,13 @@
   "language": "zh-CN",
   "categories": {
     "session.start": {
-      "sounds": [
-        {
-          "file": "sounds/baby.mp3",
-          "label": "宝宝"
-        }
-      ]
+      "sounds": [{ "file": "sounds/baby-start.mp3", "label": "开始" }]
+    },
+    "task.complete": {
+      "sounds": [{ "file": "sounds/baby-ok.mp3", "label": "ok" }]
+    },
+    "task.error": {
+      "sounds": [{ "file": "sounds/baby-error.mp3", "label": "错误" }]
     }
   }
 }
