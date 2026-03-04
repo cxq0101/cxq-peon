@@ -1,24 +1,39 @@
 {
-    "cesp_version": "1.0",
-    "name": "cxq-peon",
-    "display_name": "My Sound Pack",
-    "version": "1.0.0",
-    "description": "Short description of your pack",
-    "author": {
-        "name": "cxq",
-        "github": "cxq-0101"
-    },
-    "license": "CC-BY-NC-4.0",
-    "language": "en",
-    "categories": {
-        "session.start": {
-            "sounds": [{ "file": "sounds/baby.mp3", "label": "Hello! 宝宝" }]
-        },
-        "task.complete": {
-            "sounds": [{ "file": "sounds/baby.mp3", "label": "宝宝 ok之" }]
-        },
-        "task.error": {
-            "sounds": [{ "file": "sounds/baby.mp3", "label": "宝宝 出问题啦" }]
+  "cesp_version": "1.0",
+  "name": "cxq-peon",
+  "display_name": "My Sound Pack",
+  "version": "1.0.0",
+  "description": "Short description of your pack",
+  "author": {
+    "name": "cxq",
+    "github": "cxq-0101"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh-CN",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/baby.mp3",
+          "label": "Hello! 宝宝"
         }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/baby.mp3",
+          "label": "宝宝 ok之"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/baby.mp3",
+          "label": "宝宝 出问题啦"
+        }
+      ]
     }
+  }
 }
